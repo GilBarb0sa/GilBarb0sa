@@ -9,7 +9,7 @@
 <p align="left">I am a programming student with skills focused on  technologies such as HTML5, CSS3, BootStrap,  C#, JavaScript, .Net and Asp.Net MVC.</p>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/92db6e67-5029-440e-b7d9-1cfc8703a438" alt="ezgif com-gif-to-mp4-converter" width="500" height="250">
+  <img src="https://github.com/user-attachments/assets/92db6e67-5029-440e-b7d9-1cfc8703a438" alt="ezgif com-gif-to-mp4-converter" width="550" height="250">
 </div>
 
 
