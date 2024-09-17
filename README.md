@@ -53,8 +53,6 @@
 
 ###
 
-![Snake animation](https://github.com/GilBarb0sa/GilBarb0sa/blob/output/github-contribution-grid-snake.svg)
-
 ###
 
 <h2 align="left">Social Media</h2>
