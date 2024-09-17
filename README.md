@@ -1,15 +1,17 @@
 <h1 align="center">Hello World, Welcome! 🖖</h1>
 
-
-
 ###
 
-<p align="left">I am a programming student with skills focused on  technologies such as HTML5, CSS3, BootStrap,  C#, JavaScript, .Net and Asp.Net MVC.</p>
+- 🗞️ Estou no último semestre do curso de Análise e Desenvolvimento de Sistemas pela Universidade Santa Cecília.
+- 🏢 Hoje trabalho como estagiário de desenvolvimento Web na Prefeitura da Praia Grande.
+- 📚 Estudando atualmente C#, Asp.Net MVC, Bootstrap e Sass.
+- 🤓 Próximos passos de estudo que após dominar o que estou estudando atualmente é focar no framework Angular.
+- 🚀 Objetivo: Me especializar cade vez mais no desenvolvimento web e sistemas com a stack principal C-Sharp, onde desejo ter um grande conhecimento do backend até o frondend e ter conhecimento necessário para se tornar FullStack!
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/92db6e67-5029-440e-b7d9-1cfc8703a438" alt="ezgif com-gif-to-mp4-converter" width="550" height="250">
 </div>
-
 
 ###
 
@@ -45,12 +47,13 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GilBarb0sa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GilBarb0sa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GilBarb0sa&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
+
+![Snake animation](https://github.com/GilBarb0sa/GilBarb0sa/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
