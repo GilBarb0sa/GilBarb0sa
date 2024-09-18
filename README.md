@@ -6,7 +6,7 @@
 - 🏢 Hoje trabalho como estagiário de desenvolvimento Web na Prefeitura da Praia Grande.
 - 📚 Estudando atualmente C#, Asp.Net MVC, Bootstrap e Sass.
 - 🤓 Próximos passos de estudo após dominar o que estou estudando atualmente é focar no framework Angular.
-- 🚀 Objetivo: Me especializar cade vez mais no desenvolvimento web e sistemas com a stack principal C-Sharp, onde desejo ter um grande conhecimento do backend até o frondend e ter conhecimento necessário para se tornar FullStack!
+- 🚀 Objetivo: Me especializar cade vez mais no desenvolvimento web e sistemas com a stack principal C-Sharp, onde desejo ter um grande conhecimento do backend até o frontend e ter conhecimento necessário para se tornar FullStack!
 
 
 <div align="center">
