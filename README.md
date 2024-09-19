@@ -1,6 +1,10 @@
-<h1 align="center">Hello World, Welcome! 🖖</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFF&center=true&vCenter=true&random=false&width=524&lines=Hello World, Welcome! 🖖++" alt="Typing SVG">
+  </a>
+</div>
 
-
+#
 - 🗞️ Estou no último semestre do curso de Análise e Desenvolvimento de Sistemas pela Universidade Santa Cecília.
 - 🏢 Hoje trabalho como estagiário de desenvolvimento Web na Prefeitura da Praia Grande.
 - 📚 Estudando atualmente C#, Asp.Net MVC, Bootstrap e Sass.
@@ -44,13 +48,13 @@
 
 #
 
-<h3 align="left">🔥   My Stats </h3>
+<h3 align="center">🔥   My Stats </h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GilBarb0sa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=GilBarb0sa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GilBarb0sa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GilBarb0sa&radius=16&theme=tokyo-night&area=true&order=5" height="284" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GilBarb0sa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GilBarb0sa&radius=16&theme=tokyo-night&area=true&order=5" height="238" alt="activity-graph graph"  />
 </div>
 
 #
